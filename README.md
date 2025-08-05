@@ -1,1 +1,1 @@
-# How to Resolve Git Merge Conflict (LOCAL VERSION)
+# How to Resolve Git Merge Conflict (RESOLVED: LOCAL + REMOTE)
