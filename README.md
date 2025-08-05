@@ -1,1 +1,1 @@
-# How to Resolve Git Merge Conflict (INITIAL)
+# How to Resolve Git Merge Conflict (LOCAL VERSION)
